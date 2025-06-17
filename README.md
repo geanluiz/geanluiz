@@ -33,9 +33,5 @@
 
 ###
 
-<br clear="both">
-
-![https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geanlsribeiro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geanluizr@gmail.com) 
